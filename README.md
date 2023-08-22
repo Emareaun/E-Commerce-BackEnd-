@@ -4,16 +4,6 @@
 
 This project is a functional Express.js API that connects to a MySQL database using Sequelize. It provides routes for managing categories, products, and tags, allowing you to perform CRUD (Create, Read, Update, Delete) operations on the data.
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Database Configuration](#database-configuration)
-- [Models and Associations](#models-and-associations)
-- [Routes](#routes)
-- [Seeding](#seeding)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Installation
 
 1. Clone the repository to your local machine.
